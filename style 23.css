@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Sora';
+}
+
+body {
+    background: #F5F5F5;
+    margin-top: 50px;
+}
+
+section {
+    width: 1140px;
+    height: 616px;
+    display: flex;
+    background: #263238;
+    margin-left: -10px;
+}
+
+.box-1 {
+    width: 1000px;
+    height: 300px;
+    margin: 20px;
+}
+
+.box-2 {
+    width: 1000px;
+    height: 300px;
+    padding-left: 20px;
+}
+
+h3 {
+    font-size: 24px;
+    color: #457B9D;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 48px;
+    color: white;
+    margin-top: -10px;
+}
+
+p {
+    width: 450px;
+    margin-top: -10px;
+    text-align: justify;
+    font-size: 20px;
+    color: white;
+}
